@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Idan.93lev@gmail.com**
 
-- ⚡ Fun facts **🎸 Musician, 🦉 Birdwatcher, 🍹 Mixologist, 🌱 Vegan.**
+- ⚡ Fun facts: **🎸 Musician, 🦉 Birdwatcher, 🍹 Mixologist, 🌱 Vegan.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
