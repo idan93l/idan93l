@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/2sH0ZwY/My-project-1.png" alt="My-project-1" border="0" width="100%" />
+<img src="https://imgur.com/a/fD7ZPI5" alt="My-project-1" border="0" width="100%" />
 <h1 align="center">Hi 👋, I'm Idan Lev</h1>
 <h3 align="center">A passionate Web developer</h3>
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
