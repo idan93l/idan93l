@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Docker, TypeScript, Tailwind, Prisma, TipTap, Vercel**.
 
-- 👨‍💻 All of my projects are available at [https://reactive-portfolio-three.vercel.app/](https://reactive-portfolio-three.vercel.app/).
+- 👨‍💻 All of my projects are available at my [Portfolio](https://reactive-portfolio-three.vercel.app/).
 
 - 💬 Ask me about **Mern, Javascript, CSS**.
 
