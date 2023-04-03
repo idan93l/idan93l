@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Blog App that Automatically generate Blog Post Content with ChatGPT**.
 
-- 🌱 I’m currently learning **Docker, TypeScript, Tailwind**.
+- 🌱 I’m currently learning **Docker, TypeScript, Tailwind, Prisma, TipTap, Vercel**.
 
 - 👨‍💻 All of my projects are available at [https://reactive-portfolio-three.vercel.app/](https://reactive-portfolio-three.vercel.app/).
 
