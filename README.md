@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idan93l" alt="idan93l" /></a> </p> -->
 
-- 🔭 I’m currently working on **Chat App with ChatGPT API**
+- 🔭 I’m currently working on **Chat App with ChatGPT API**.
 
-- 🌱 I’m currently learning **Docker, TypeScript, Tailwind.**
+- 🌱 I’m currently learning **Docker, TypeScript, Tailwind**.
 
-- 👨‍💻 All of my projects are available at [https://reactive-portfolio-three.vercel.app/](https://reactive-portfolio-three.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://reactive-portfolio-three.vercel.app/](https://reactive-portfolio-three.vercel.app/).
 
-- 💬 Ask me about **Mern, Javascript, CSS.**
+- 💬 Ask me about **Mern, Javascript, CSS**.
 
-- 📫 How to reach me **Idan.93lev@gmail.com**
+- 📫 How to reach me **Idan.93lev@gmail.com**.
 
-- ⚡ Fun facts: **🎸 Musician, 🦉 Birdwatcher, 🍹 Mixologist, 🌱 Vegan.**
+- ⚡ Fun facts: **🎸 Musician, 🦉 Birdwatcher, 🍹 Mixologist, 🌱 Vegan**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
