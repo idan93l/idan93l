@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idan93l" alt="idan93l" /></a> </p> -->
 
-- 🔭 I’m currently working on **Online Beat Sequencer**.
+- 🔭 I’m currently working on **Online Beat Sequencer using socket.io**.
 
 - 🌱 I’m currently learning **Docker, TypeScript, Tailwind, Prisma, TipTap, Vercel**.
 
