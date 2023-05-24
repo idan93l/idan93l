@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Online Beat Sequencer**.
 
-- 🌱 I’m currently learning **Docker, TypeScript, Tailwind, Prisma, TipTap, Vercel**.
+- 🌱 I’m currently learning **Next.js, Docker, TypeScript, Tailwind, Prisma, Vercel**.
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://reactive-portfolio-three.vercel.app/).
 
