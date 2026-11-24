@@ -1,23 +1,23 @@
-<img src="https://i.ibb.co/2sH0ZwY/My-project-1.png" alt="My-project-1" border="0" width="100%" />
+<img src="./assets/idan-lev-software-developer-banner.png" alt="Idan Lev — Software Developer" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Idan Lev</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">Software Developer building thoughtful products at the intersection of code, music, and AI</h3>
+
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=idan93l&label=Profile%20views&color=0e75b6&style=flat" alt="idan93l" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idan93l" alt="idan93l" /></a> </p> -->
 
-- 🔭 I’m currently working on **Online Beat Sequencer**.
+- 🔭 I’m currently building **Muse-It** — a new music-focused software product.
 
-- 🌱 I’m currently learning **Next.js, Docker, TypeScript, Tailwind, Prisma, Vercel**.
+- 🤖 I’m exploring **AI-powered product development, LLM integration, RAG, AI agents, prompt engineering, embeddings, vector databases, and multimodal workflows**.
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://reactive-portfolio-three.vercel.app/).
+- 💬 Ask me about **JavaScript, TypeScript, React, Node.js, full-stack development, and creative technology**.
 
-- 💬 Ask me about **Mern, Javascript, CSS**.
+- 📫 How to reach me: **Idan.93lev@gmail.com**.
 
-- 📫 How to reach me **Idan.93lev@gmail.com**.
-
-- ⚡ Fun facts: **🎸 Musician, 🦉 Birdwatcher, 🍹 Mixologist, 🌱 Vegan**.
+- ⚡ Fun facts: **🎸 Musician, 🦉 Birdwatcher, ☕ Barista, 🎭 Improv, 🌱 Vegan**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
